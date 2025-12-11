@@ -7,3 +7,12 @@ Git är ett kraftfullt versionshanteringssystem som har blivit en standard inom 
 ## Samarbetsfördelar
 
 En av de största fördelarna med Git är möjligheten att arbeta tillsammans med andra utvecklare. Genom att använda branches kan flera personer arbeta på olika funktioner samtidigt utan att störa varandra. När arbetet är klart kan ändringarna enkelt slås samman (merge) till huvudgrenen.
+
+## Versionshantering
+
+Med Git kan du enkelt:
+
+- Spåra alla ändringar i ditt projekt över tid
+- Återgå till tidigare versioner om något går fel
+- Se vem som gjorde vilka ändringar och när
+- Jämföra olika versioner av filer
